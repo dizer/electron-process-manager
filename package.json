@@ -42,6 +42,8 @@
   },
   "files": [
     "dist/",
-    "src/"
+    "src/",
+    "vendor/",
+    "process-manager.html"
   ]
 }
