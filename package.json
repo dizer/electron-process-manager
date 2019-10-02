@@ -41,6 +41,7 @@
     "spectron/**/electron-chromedriver": "^4.0.0-beta.1"
   },
   "files": [
-    "dist/"
+    "dist/",
+    "src/"
   ]
 }
